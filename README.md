@@ -1,6 +1,6 @@
 # Arduino distance detector with a buzzer and LEDs.
 
-![led](https://media.giphy.com/media/xUPGcr5VroYyOsAd7W/giphy.gif)
+![led](https://media.giphy.com/media/1raWtD3ybrCHC/giphy.gif)
 
 Installation:
 =====
